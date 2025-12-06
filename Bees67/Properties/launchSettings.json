@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Bees67 (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Bees67 (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
